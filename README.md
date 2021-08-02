@@ -1,4 +1,4 @@
-## Hello! My name is Natanael
+## Hello! My name is Natanael (Natan)
 
 - 🔭 I’m currently working on game development with Unity3D/C#
 - 🌱 I’m currently learning back-end development with Node.js and Express.js
