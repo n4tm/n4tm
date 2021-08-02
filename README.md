@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/n4tm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=n4tm&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4tm&layout=compact&langs_count=7&theme=vision-friendly-dark&card_width=400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4tm&layout=compact&langs_count=7&theme=vision-friendly-dark&card_width=350"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="n4tm-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
