@@ -13,17 +13,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4tm&layout=compact&langs_count=7&theme=vision-friendly-dark&card_width=360"/>
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="n4tm-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="n4tm-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
   <img align="center" alt="n4tm-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="n4tm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="n4tm-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="n4tm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+##
  
 <br>
-<img align="right" alt="n4tm-DarkSouls" width="800" heigth="427" src="https://media.discordapp.net/attachments/831554332322562170/871743843761004584/1454745043660382759.gif">
+<img align="right" alt="n4tm-DarkSouls" width="700" heigth="327" src="https://media.discordapp.net/attachments/831554332322562170/871743843761004584/1454745043660382759.gif">
 <div>
   <br><br>
   <a href="https://www.instagram.com/nlucen4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
