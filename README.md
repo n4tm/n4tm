@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning back-end development with Node.js and Express.js
 - 📫 How to reach me: n4tm@outlook.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm a huge fan of Dark Souls
+- ⚡ Fun fact: I'm a huge Dark Souls fan
 
 
 <div>
