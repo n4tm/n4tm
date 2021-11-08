@@ -23,7 +23,7 @@
 ##
  
 <br>
-<img align="right" alt="n4tm-DarkSouls" width="700" heigth="327" src="https://media.discordapp.net/attachments/831554332322562170/871743843761004584/1454745043660382759.gif">
+<img align="right" alt="n4tm-DarkSouls" width="629" heigth="256" src="https://media.discordapp.net/attachments/831554332322562170/871743843761004584/1454745043660382759.gif">
 <div>
   <br><br>
   <a href="https://www.instagram.com/nlucen4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
