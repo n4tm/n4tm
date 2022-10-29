@@ -1,11 +1,9 @@
 ## Hello! My name is Natanael (Natan)
 
-- 🔭 I’m currently working on game development with Unity3D/C#
-- 🌱 I’m currently learning back-end development with .NET/C#
+- 🔭 I’m currently working on back-end development with .NET/C# and front-end development with Angular
+- 🌱 I’m always developing my problem solving skills
 - 📫 How to reach me: n4tm@outlook.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm a huge Dark Souls fan
-
 
 <div>
   <a href="https://github.com/n4tm">
