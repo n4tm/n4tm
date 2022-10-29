@@ -25,9 +25,8 @@
 <div>
   <a href="https://www.linkedin.com/in/natanael-lucena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br><br>
   <a href="https://t.me/nlucen4" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a><br><br><br>
-  <a href="https://discordapp.com/users/346091954376802307/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br><br><br>
-  <a href="mailto:contato@nldm.eng20@uea.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+    <a href="mailto:contato@nldm.eng20@uea.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br<br>
+  <a href="https://discordapp.com/users/346091954376802307/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 </div>
 
