@@ -23,8 +23,7 @@
 <br>
 <img align="right" alt="n4tm-DarkSouls" width="629" heigth="256" src="https://media.discordapp.net/attachments/831554332322562170/871743843761004584/1454745043660382759.gif">
 <div>
-  <a href="https://www.instagram.com/nlucen4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
-  <a href="https://www.facebook.com/profile.php?id=100006775178601" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a><br><br>
+
   <a href="https://t.me/nlucen4" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a><br><br>
   <a href="https://www.linkedin.com/in/natanael-lucena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
   <a href="https://discordapp.com/users/346091954376802307/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><br><br>
